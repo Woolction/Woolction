@@ -4,7 +4,7 @@ I am a Unity game developer with nearly 1 year of experience.
 
 I work confidently with C# and Unity, applying architectural approaches (MVC) and design patterns such as:
 
-⚙️ Singleton, Factory, Observer, State, Object Pool, Event Bus, Service Locator, Dependency Injection, and Scriptable Objects.
+[Singleton, Factory, Observer, State, Object Pool, Event Bus, Service Locator, Dependency Injection, and Scriptable Objects.]
 
 I actively use third-party tools and plugins including: 🛠️ DOTween, UniTask, 📦 AssetBundles, Addressables.
 #

@@ -1,4 +1,4 @@
-## Hi I’m Zynres
+## About Me:
 
 I am a Unity game developer with nearly 1 year of experience.
 
